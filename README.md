@@ -112,6 +112,10 @@ Router1# show ip route
 ---
 <img width="841" height="1013" alt="image" src="https://github.com/user-attachments/assets/54e37780-24ab-404b-bcdf-566a194afcb9" />
 
+<img width="1251" height="813" alt="image" src="https://github.com/user-attachments/assets/06f3307f-a96b-4997-b747-646626554f0e" />
+
+
+<img width="1110" height="670" alt="image" src="https://github.com/user-attachments/assets/8d588860-dfc0-4680-9012-a6e8b9232eaf" />
 
 
 ## 📝 RESULT
